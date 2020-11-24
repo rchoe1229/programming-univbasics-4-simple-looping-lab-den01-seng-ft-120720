@@ -9,6 +9,5 @@ end
 end
 
 def loop_message_n_times
-n.times 
-end
+n.times {puts "Hello Moon."}
 end
