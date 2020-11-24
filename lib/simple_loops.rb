@@ -5,5 +5,5 @@ def loop_message_five_times(array)
   
   while counter < array.length 
   puts array[counter]
-  counter +=>1  
+  counter += 1  
 end
