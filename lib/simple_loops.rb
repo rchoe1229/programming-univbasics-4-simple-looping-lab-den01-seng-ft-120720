@@ -10,7 +10,7 @@ end
 
 def loop_message_n_times(string)
   counter = 0 
-  number = 5
+  number = "5"
   message = "Hello Moon."
   
   while counter < number
