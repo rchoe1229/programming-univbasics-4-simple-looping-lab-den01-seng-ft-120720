@@ -9,11 +9,12 @@ end
 end
 
 def loop_message_n_times(string)
-  message = "Hello Moon."
-  number = 5
   counter = 0 
+  number = 5
+  message = "Hello Moon."
   
   while counter < number
   puts message
   counter += 1
+end
 end
