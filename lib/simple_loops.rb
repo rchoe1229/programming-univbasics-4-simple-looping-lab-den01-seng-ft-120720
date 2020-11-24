@@ -1,5 +1,5 @@
 # Write your methods here
-def loop_message_five_times
+def loop_message_five_times(String)
   counter = 0 
   
   while counter < 4
