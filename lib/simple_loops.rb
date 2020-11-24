@@ -3,5 +3,6 @@
 def loop_message_five_times(string)
   counter = 0 
   
-  while counter < string.length
+  while counter < 4
+  puts 
 end
