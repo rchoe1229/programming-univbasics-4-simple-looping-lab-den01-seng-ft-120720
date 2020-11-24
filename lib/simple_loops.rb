@@ -9,5 +9,9 @@ end
 end
 
 def loop_message_n_times
-n.times {puts "Hello Moon."}
+  n = 4
+  
+  while  < 4
+  puts "Hello Moon."
+  
 end
